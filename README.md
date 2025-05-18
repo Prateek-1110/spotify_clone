@@ -52,7 +52,7 @@ npm start
 
 **Prateek**
 GitHub: [prateek-1110](https://github.com/prateek-1110)
-LinkedIn: [Your Profile](https://www.linkedin.com/in/irreplacable1110)
+LinkedIn: [Your Profile](https://www.linkedin.com/in/irreplaceable1110)
 
 ---
 
